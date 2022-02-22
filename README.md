@@ -1,4 +1,4 @@
-# :wave: Welcome to my Github Profile!
+# :wave: Hello, I'm Lochan Patil!
 
 <p align="center">
 <!-- <img src= "https://user-images.githubusercontent.com/42696800/137447306-89f21386-975d-4e6b-b173-25feb6e59d5d.gif" width="600" height="350" /> -->
