@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lochan Patil</h1>
 <h3 align="center">A passionate Application Developer from India</h3>
 
-I am a Software developer who loves solving problems using code.<br>The technologies that I currently have under my belt include Java, HTML, CSS, Git, SQL, MongoDB, and python.<br>I also have the experience of building Progressive Android Applications.
+<p align="center">I loves solving problems using code.<br>The technologies that I currently have under my belt include Java, HTML, CSS, Git, SQL, MongoDB, and python.<br>I also have the experience of building Progressive Android Applications.</p>
 
 
 ## 🌐 Socials:
